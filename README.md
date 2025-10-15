@@ -1,27 +1,38 @@
-# Read-here-about-me.
-Here is all about Myself and yourself to decide about me.
+# 👋 Hi, I'm G Vishnukanth Reddy
 
-# Hey there 👋, I’m G Vishnukanth Reddy  
+Welcome to my GitHub!
+I'm a passionate Computer Science graduate, driven by curiosity and the thrill of building things that matter.
 
-This is all about me — feel free to read and let me into your brain for developing 🚀  
+## 🚀 About Me
+- 💡 Turning ideas into working software is what gets me up in the morning.
+- 🛡️ Cybersecurity enthusiast: I love exploring ethical hacking and building secure systems.
+- 🧑‍💻 Java Full Stack Developer in training: Currently training with Revature to master modern Java technologies and web development.
+- 🎨 “Code is my playground, curiosity is my fuel, and development is my art.”
 
-I’m a passionate **Computer Science graduate** who loves turning ideas into working software. Whether it’s building secure systems or full-stack applications, I’m always up for a challenge.  
+## 🌟 Highlights
+- **IBM Phemesoft Internship:** Built an Ethical Hacking AI Framework (AI + Cybersecurity, Automation).
+- **Automated Social Media Management Platform:** Developed a full-stack platform for automating posts, analytics, and scheduling.
+- **Ethical Hacking Project:** Led a hands-on project focused on penetration testing and vulnerability assessment (ask me for details!).
 
-💡 My journey so far includes:  
-- An internship at **IBM Phemesoft** building an **Ethical Hacking AI Framework** 🛡️  
-- A full-stack project — **Automated Social Media Management Platform** 📊  
-- Currently training as a **Java Full Stack Developer with Revature** 💻  
+## 🛠️ Tech Stack
+**Languages & Frameworks:** Core Java, JDBC, SQL, HTML, CSS, JavaScript, TypeScript, REST API, Javalin, Maven, JWT Authentication, Spring (learning)  
+**Front-End:** HTML, CSS, Angular (upcoming)  
+**Tools:** Git, GitHub, DevOps basics  
+**Special interests:** Cybersecurity, Ethical Hacking
 
-### 🛠 What I Work With  
-Core Java, JDBC, SQL, REST API, Javalin, Spring (upcoming), HTML, CSS, JavaScript, Angular (upcoming), TypeScript, Maven, Git & GitHub, JWT Authentication, DevOps basics, Cybersecurity.  
+## 🌱 Currently Learning
+- Advanced Full-Stack Development
+- Spring Framework
+- DevOps & CI/CD pipelines
+- Data Structures & Algorithms
 
-### 🌱 I’m Learning  
-Spring Framework, Advanced Full-Stack Development, DevOps pipelines, Data Structures & Algorithms.  
+## 📫 Connect with Me
+- **Email:** vishnukanthreddy@zohomail.in
+- **LinkedIn:** [vishnukanth-g-reddy](https://www.linkedin.com/in/vishnukanth-g-reddy)
 
-### 📫 Let’s Connect  
-- Email: vishnukanthreddy@zohomail.in  
-- LinkedIn: https://www.linkedin.com/in/vishnukanth-g-reddy/
-- GitHub: github.com/gvishnukanthreddy (#) 
+## ⚡ Fun Facts
+- I thrive on challenges—whether it's cracking a security puzzle or architecting scalable web apps.
+- I believe continuous learning is the key to growth.
+- I enjoy collaborating and exchanging ideas with other tech enthusiasts!
 
-*"Code is my playground, curiosity is my fuel, and development is my art."* 🎨💻
-
+> “Code is my playground, curiosity is my fuel, and development is my art.” 🎨💻
